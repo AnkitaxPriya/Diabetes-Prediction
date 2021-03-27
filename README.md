@@ -47,6 +47,10 @@ This model is used for a research on feature selection and its behaviours with d
 Best value was obtained from *Logistic Regression Algorithm* on 5 features namely, Pregnancies, Glucose, Blood Pressure, Skin Thickness and Age without any manipulation with the data. The accuracy obtained was `81.0%`. 
 The precision and recall obtained were `80.0%` and `65.0%` respectively. 
 
+## Link to the research paper
+
+Coming shortly. 
+
 ## References 
 ```
 Dataset: https://www.kaggle.com/uciml/pima-indians-diabetes-database
